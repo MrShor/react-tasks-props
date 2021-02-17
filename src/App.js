@@ -1,5 +1,3 @@
-/* eslint-disable no-cond-assign */
-/* eslint-disable no-return-assign */
 import React from "react";
 import "./App.css";
 import Figure from "./components/Figure/Figure";

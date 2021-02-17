@@ -14,7 +14,6 @@
     "semi": 2,
     "react/jsx-filename-extension": [ 1, {"extensions": [".js", ".jsx"]} ],
     "react/destructuring-assignment": [ "error", "always", {"ignoreClassFields": true} ],
-    // "react/prop-types": 0,
     "prettier/prettier": [ "error", {"semi": true} ]
   }
 }
