@@ -22,6 +22,8 @@ const Figure = ({ figureProperties }) => {
   );
 };
 
-Figure.propTypes = figurePropertiesType;
+Figure.propTypes = {
+  figureProperties: figurePropertiesType.isRequired,
+};
 
 export default Figure;
